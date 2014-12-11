@@ -1,0 +1,39 @@
+{
+  "name": "is-present",
+  "version": "0.0.1",
+  "description": "Check whether a value is nonblank.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnotander/is-present.git"
+  },
+  "keywords": [
+    "string",
+    "present",
+    "presence",
+    "nonblank",
+    "blank",
+    "whitespace",
+    "object",
+    "array",
+    "empty"
+  ],
+  "author": "John Otander <johnotander@gmail.com> (http://johnotander.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnotander/is-present/issues"
+  },
+  "homepage": "https://github.com/johnotander/is-present",
+  "devDependencies": {
+    "mocha": "^2.0.1"
+  },
+  "dependencies": {
+    "is-blank": "0.0.1"
+  }
+}
