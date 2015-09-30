@@ -1,6 +1,6 @@
 {
   "name": "is-present",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Check whether a value is nonblank.",
   "main": "index.js",
   "directories": {
