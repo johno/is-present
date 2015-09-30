@@ -1,6 +1,4 @@
-# Is Present
-
-[![Build Status](https://travis-ci.org/johnotander/is-present.svg?branch=master)](https://travis-ci.org/johnotander/is-present)
+# is-present [![Build Status](https://travis-ci.org/johnotander/is-present.svg?branch=master)](https://travis-ci.org/johnotander/is-present)
 
 Check whether a value is nonblank.
 
